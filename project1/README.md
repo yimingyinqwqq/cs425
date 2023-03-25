@@ -1,5 +1,7 @@
 # CS425-MP1
 
+This project implements distributed grep command, where a client can grep a specific pattern on multiple servers.
+
 # contributors
 zhiheng hua
 yiming yin
